@@ -1,0 +1,14 @@
+{
+	"numberOfDays": 365,
+	"numberOfPatientsZero": 5,
+	"probabilityOfInfectionRange": {"lowerBound": 0.018, "upperBound": 0.04},
+	"fearFactor": 5,
+	"probabilityAsymptomatic": 0.405,
+	"vaccineImmunity": 0.84,
+	"naturalImmunity": 0.805,
+	"naturalImmunityDays": 182,
+	"vaccineData": {
+			"0": 0
+			}
+		
+}
